@@ -103,7 +103,8 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://18.191.252.86:8081/repository/penns-repo/ebay-java-app-snapshot/</url>
+	      <url>http://http://18.191.252.86:8081/repository/penns-repo//ebay-java-app-snapshot/</url>
+		    
 		   
 	    </snapshotRepository>
 	    
