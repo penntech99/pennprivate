@@ -1,5 +1,6 @@
 //Jenkins pipeline script
 //Groovy script 
+//
 
 node{
   def mavenHome = tool name: 'maven3.8.1'
